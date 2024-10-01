@@ -1,0 +1,17 @@
+C:\Projects\DateTime\DateTime\bin\Debug\net8.0-windows\DateTime.exe
+C:\Projects\DateTime\DateTime\bin\Debug\net8.0-windows\DateTime.deps.json
+C:\Projects\DateTime\DateTime\bin\Debug\net8.0-windows\DateTime.runtimeconfig.json
+C:\Projects\DateTime\DateTime\bin\Debug\net8.0-windows\DateTime.dll
+C:\Projects\DateTime\DateTime\bin\Debug\net8.0-windows\DateTime.pdb
+C:\Projects\DateTime\DateTime\obj\Debug\net8.0-windows\DateTime.Form1.resources
+C:\Projects\DateTime\DateTime\obj\Debug\net8.0-windows\DateTime.csproj.GenerateResource.cache
+C:\Projects\DateTime\DateTime\obj\Debug\net8.0-windows\DateTime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\DateTime\DateTime\obj\Debug\net8.0-windows\DateTime.AssemblyInfoInputs.cache
+C:\Projects\DateTime\DateTime\obj\Debug\net8.0-windows\DateTime.AssemblyInfo.cs
+C:\Projects\DateTime\DateTime\obj\Debug\net8.0-windows\DateTime.csproj.CoreCompileInputs.cache
+C:\Projects\DateTime\DateTime\obj\Debug\net8.0-windows\DateTime.dll
+C:\Projects\DateTime\DateTime\obj\Debug\net8.0-windows\refint\DateTime.dll
+C:\Projects\DateTime\DateTime\obj\Debug\net8.0-windows\DateTime.pdb
+C:\Projects\DateTime\DateTime\obj\Debug\net8.0-windows\DateTime.genruntimeconfig.cache
+C:\Projects\DateTime\DateTime\obj\Debug\net8.0-windows\ref\DateTime.dll
+C:\Projects\DateTime\DateTime\obj\Debug\net8.0-windows\DateTime.DateSearch.resources
