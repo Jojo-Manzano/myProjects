@@ -1,0 +1,16 @@
+C:\Projects\DataGridEx\DataGridEx\bin\Debug\net8.0-windows\DataGridEx.exe
+C:\Projects\DataGridEx\DataGridEx\bin\Debug\net8.0-windows\DataGridEx.dll
+C:\Projects\DataGridEx\DataGridEx\obj\Debug\net8.0-windows\DataGridEx.Form1.resources
+C:\Projects\DataGridEx\DataGridEx\obj\Debug\net8.0-windows\DataGridEx.csproj.GenerateResource.cache
+C:\Projects\DataGridEx\DataGridEx\obj\Debug\net8.0-windows\DataGridEx.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\DataGridEx\DataGridEx\obj\Debug\net8.0-windows\DataGridEx.AssemblyInfoInputs.cache
+C:\Projects\DataGridEx\DataGridEx\obj\Debug\net8.0-windows\DataGridEx.AssemblyInfo.cs
+C:\Projects\DataGridEx\DataGridEx\obj\Debug\net8.0-windows\DataGridEx.csproj.CoreCompileInputs.cache
+C:\Projects\DataGridEx\DataGridEx\obj\Debug\net8.0-windows\DataGridEx.dll
+C:\Projects\DataGridEx\DataGridEx\obj\Debug\net8.0-windows\refint\DataGridEx.dll
+C:\Projects\DataGridEx\DataGridEx\obj\Debug\net8.0-windows\DataGridEx.pdb
+C:\Projects\DataGridEx\DataGridEx\bin\Debug\net8.0-windows\DataGridEx.deps.json
+C:\Projects\DataGridEx\DataGridEx\bin\Debug\net8.0-windows\DataGridEx.runtimeconfig.json
+C:\Projects\DataGridEx\DataGridEx\bin\Debug\net8.0-windows\DataGridEx.pdb
+C:\Projects\DataGridEx\DataGridEx\obj\Debug\net8.0-windows\DataGridEx.genruntimeconfig.cache
+C:\Projects\DataGridEx\DataGridEx\obj\Debug\net8.0-windows\ref\DataGridEx.dll
