@@ -1,0 +1,16 @@
+C:\Jonathan Projects\Learwithme\SampleProject\SampleProject\bin\Debug\net8.0-windows\SampleProject.exe
+C:\Jonathan Projects\Learwithme\SampleProject\SampleProject\bin\Debug\net8.0-windows\SampleProject.deps.json
+C:\Jonathan Projects\Learwithme\SampleProject\SampleProject\bin\Debug\net8.0-windows\SampleProject.runtimeconfig.json
+C:\Jonathan Projects\Learwithme\SampleProject\SampleProject\bin\Debug\net8.0-windows\SampleProject.dll
+C:\Jonathan Projects\Learwithme\SampleProject\SampleProject\bin\Debug\net8.0-windows\SampleProject.pdb
+C:\Jonathan Projects\Learwithme\SampleProject\SampleProject\obj\Debug\net8.0-windows\SampleProject.Form1.resources
+C:\Jonathan Projects\Learwithme\SampleProject\SampleProject\obj\Debug\net8.0-windows\SampleProject.csproj.GenerateResource.cache
+C:\Jonathan Projects\Learwithme\SampleProject\SampleProject\obj\Debug\net8.0-windows\SampleProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Jonathan Projects\Learwithme\SampleProject\SampleProject\obj\Debug\net8.0-windows\SampleProject.AssemblyInfoInputs.cache
+C:\Jonathan Projects\Learwithme\SampleProject\SampleProject\obj\Debug\net8.0-windows\SampleProject.AssemblyInfo.cs
+C:\Jonathan Projects\Learwithme\SampleProject\SampleProject\obj\Debug\net8.0-windows\SampleProject.csproj.CoreCompileInputs.cache
+C:\Jonathan Projects\Learwithme\SampleProject\SampleProject\obj\Debug\net8.0-windows\SampleProject.dll
+C:\Jonathan Projects\Learwithme\SampleProject\SampleProject\obj\Debug\net8.0-windows\refint\SampleProject.dll
+C:\Jonathan Projects\Learwithme\SampleProject\SampleProject\obj\Debug\net8.0-windows\SampleProject.pdb
+C:\Jonathan Projects\Learwithme\SampleProject\SampleProject\obj\Debug\net8.0-windows\SampleProject.genruntimeconfig.cache
+C:\Jonathan Projects\Learwithme\SampleProject\SampleProject\obj\Debug\net8.0-windows\ref\SampleProject.dll
