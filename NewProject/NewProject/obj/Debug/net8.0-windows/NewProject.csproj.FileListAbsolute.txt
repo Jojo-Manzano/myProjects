@@ -1,0 +1,17 @@
+C:\MyProjects\Projects\myProjects\NewProject\NewProject\bin\Debug\net8.0-windows\NewProject.exe
+C:\MyProjects\Projects\myProjects\NewProject\NewProject\bin\Debug\net8.0-windows\NewProject.deps.json
+C:\MyProjects\Projects\myProjects\NewProject\NewProject\bin\Debug\net8.0-windows\NewProject.runtimeconfig.json
+C:\MyProjects\Projects\myProjects\NewProject\NewProject\bin\Debug\net8.0-windows\NewProject.dll
+C:\MyProjects\Projects\myProjects\NewProject\NewProject\bin\Debug\net8.0-windows\NewProject.pdb
+C:\MyProjects\Projects\myProjects\NewProject\NewProject\obj\Debug\net8.0-windows\NewProject.Form1.resources
+C:\MyProjects\Projects\myProjects\NewProject\NewProject\obj\Debug\net8.0-windows\NewProject.csproj.GenerateResource.cache
+C:\MyProjects\Projects\myProjects\NewProject\NewProject\obj\Debug\net8.0-windows\NewProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyProjects\Projects\myProjects\NewProject\NewProject\obj\Debug\net8.0-windows\NewProject.AssemblyInfoInputs.cache
+C:\MyProjects\Projects\myProjects\NewProject\NewProject\obj\Debug\net8.0-windows\NewProject.AssemblyInfo.cs
+C:\MyProjects\Projects\myProjects\NewProject\NewProject\obj\Debug\net8.0-windows\NewProject.csproj.CoreCompileInputs.cache
+C:\MyProjects\Projects\myProjects\NewProject\NewProject\obj\Debug\net8.0-windows\NewProject.sourcelink.json
+C:\MyProjects\Projects\myProjects\NewProject\NewProject\obj\Debug\net8.0-windows\NewProject.dll
+C:\MyProjects\Projects\myProjects\NewProject\NewProject\obj\Debug\net8.0-windows\refint\NewProject.dll
+C:\MyProjects\Projects\myProjects\NewProject\NewProject\obj\Debug\net8.0-windows\NewProject.pdb
+C:\MyProjects\Projects\myProjects\NewProject\NewProject\obj\Debug\net8.0-windows\NewProject.genruntimeconfig.cache
+C:\MyProjects\Projects\myProjects\NewProject\NewProject\obj\Debug\net8.0-windows\ref\NewProject.dll
