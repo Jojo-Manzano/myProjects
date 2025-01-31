@@ -9,10 +9,10 @@ multipleOfFive();
 // lester edit
 function Age(){
 var age= prompt("what is youre age: ");
-if(age = 18){
-	console.log("My age: " + age)
+if(age == 18){
+	console.log("My age: " + age);
 }
-else if(age = 20){
-	console.log("My age: " + age)
+else if(age == 20){
+	console.log("My age: " + age);
 }
 }
