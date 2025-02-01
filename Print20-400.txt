@@ -1,0 +1,6 @@
+function print() {
+    for(var i=20; i<=400; i=i+20) {
+        console.log(i)
+    }
+}
+print();
